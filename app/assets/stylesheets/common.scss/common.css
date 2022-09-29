@@ -1,0 +1,44 @@
+    header {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-bottom: 7px solid rgb(168, 126, 49);
+    color: white;
+    background-color: rgb(110, 39, 39);
+    }
+    
+   table {
+
+        border-collapse: collapse;
+      }
+      th {
+        background-color: #fbc25b;
+        padding: 10px 20px;
+        border: 1px solid #333;
+      }
+      td {
+        background-color: #f9ecd5;
+        padding: 10px 20px;
+        border: 1px solid #333;
+      }
+  
+  footer{
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    border-top: 7px solid orange;
+  }
+  
+  .partial {
+    border: 1px solid red;
+    padding: 15px;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  .notice {
+    background-color: rgb(110, 190, 230);
+    padding: 5px;
+  }
